@@ -45,3 +45,12 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+/bin/Debug/netcoreapp1.0
+/node_modules
+/obj/Debug/netcoreapp1.0
+/typings
+/wwwroot/libs
+/Project_Readme.html
+/project.lock.json
+/.js.map
+/.js

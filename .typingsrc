@@ -1,0 +1,11 @@
+﻿//
+// Strip Certification chain because I'm behind corporate SSL firewall
+//
+//{
+//    "rejectUnauthorized": false
+//}
+
+
+rejectUnauthorized = false 
+insecure = true 
+strict-ssl = false
